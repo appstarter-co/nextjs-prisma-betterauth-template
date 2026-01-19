@@ -1,0 +1,30 @@
+{
+  "version": "1.0.0",
+  "environment": "production",
+
+  "api": {
+    "baseUrl": "https://api.example.com/v1",
+    "authEndpoint": "/auth/login",
+    "userEndpoint": "/users/me"
+  },
+
+  "features": {
+    "featureA": true,
+    "featureB": false,
+    "enableBetaDashboard": true,
+    "showStats": true
+  },
+
+  "branding": {
+    "appName": "App Starter",
+    "logoUrl": "/assets/logo.svg",
+    "faviconUrl": "/assets/favicon.ico"
+  },
+
+  "layout": {
+    "showSidebar": true,
+    "showFooter": false,
+    "sidebarPosition": "left",
+    "defaultPage": "/dashboard"
+  }
+}
