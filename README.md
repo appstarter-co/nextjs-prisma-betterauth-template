@@ -50,7 +50,7 @@ A modern, full-stack Next.js template with authentication, database integration,
 ### 1. Clone the repository
 
 ```bash
-git clone <your-repo-url>
+git clone https://github.com/appstarter-co/nextjs-prisma-betterauth-template.git
 cd nextjs-prisma-betterauth-free-template
 ```
 
@@ -65,12 +65,6 @@ pnpm install
 ```
 
 ### 3. Set up environment variables
-
-Copy the `.env` file and update the values:
-
-```bash
-cp .env .env.local
-```
 
 Update the following variables:
 
