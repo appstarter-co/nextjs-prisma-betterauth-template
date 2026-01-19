@@ -1,0 +1,64 @@
+{
+  "notifications": [
+    {
+      "id": "1",
+      "sender": "Terry Franci",
+      "action": "requests permission to change",
+      "target": "Project - Nganter App",
+      "category": "Project",
+      "timestamp": "5 min ago",
+      "isOnline": true,
+      "isRead": false
+    },
+    {
+      "id": "2",
+      "sender": "Alena Franci",
+      "action": "requests permission to change",
+      "target": "Project - Nganter App",
+      "category": "Project",
+      "timestamp": "8 min ago",
+      "isOnline": true,
+      "isRead": false
+    },
+    {
+      "id": "3",
+      "sender": "Jocelyn Kenter",
+      "action": "requests permission to change",
+      "target": "Project - Nganter App",
+      "category": "Project",
+      "timestamp": "15 min ago",
+      "isOnline": true,
+      "isRead": false
+    },
+    {
+      "id": "4",
+      "sender": "Brandon Philips",
+      "action": "requests permission to change",
+      "target": "Project - Nganter App",
+      "category": "Project",
+      "timestamp": "1 hr ago",
+      "isOnline": false,
+      "isRead": false
+    },
+    {
+      "id": "5",
+      "sender": "Sarah Wilson",
+      "action": "completed task in",
+      "target": "Marketing Campaign",
+      "category": "Task",
+      "timestamp": "2 hr ago",
+      "isOnline": true,
+      "isRead": true
+    },
+    {
+      "id": "6",
+      "sender": "Mike Johnson",
+      "action": "shared document",
+      "target": "Q4 Report.pdf",
+      "category": "Document",
+      "timestamp": "3 hr ago",
+      "isOnline": true,
+      "isRead": true
+    }
+  ]
+}
